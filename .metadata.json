@@ -1,0 +1,10 @@
+[
+  {
+    "package": "sBIC",
+    "oncran": true
+  },
+  {
+    "package": "SEMID",
+    "oncran": true
+  }
+]
