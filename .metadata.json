@@ -6,5 +6,9 @@
   {
     "package": "SEMID",
     "oncran": true
+  },
+  {
+    "package": "TauStar",
+    "oncran": true
   }
 ]

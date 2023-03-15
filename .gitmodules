@@ -13,3 +13,8 @@
 	url = https://github.com/lucaweihs/semid
 	shallow = true
 	registered = true
+[submodule "TauStar"]
+	path = TauStar
+	url = https://github.com/lucaweihs/taustar
+	shallow = true
+	registered = true
