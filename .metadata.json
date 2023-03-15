@@ -1,10 +1,10 @@
 [
   {
-    "package": "sBIC",
+    "package": "SEMID",
     "oncran": true
   },
   {
-    "package": "SEMID",
+    "package": "sBIC",
     "oncran": true
   }
 ]
