@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "sBIC"]
-	path = sBIC
-	url = https://github.com/lucaweihs/sbic
 [submodule "SEMID"]
 	path = SEMID
 	url = https://github.com/lucaweihs/semid
 [submodule "TauStar"]
 	path = TauStar
 	url = https://github.com/lucaweihs/taustar
+[submodule "sBIC"]
+	path = sBIC
+	url = https://github.com/lucaweihs/sbic
