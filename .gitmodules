@@ -5,9 +5,6 @@
 [submodule "SEMID"]
 	path = SEMID
 	url = https://github.com/lucaweihs/semid
-[submodule "TauStar"]
-	path = TauStar
-	url = https://github.com/lucaweihs/taustar
 [submodule "sBIC"]
 	path = sBIC
 	url = https://github.com/lucaweihs/sbic
